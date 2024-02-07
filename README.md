@@ -1,4 +1,5 @@
-# Deep Learning for NIR Spectroscopy Research
+# Deep Learning for NIR Spectroscopy :mango:
+
 
 ## Project Overview
 A repository to accompany a Master of Research project conducted within the School of Engineering and Technology at CQUniversity. The research focuses on leveraging deep learning techniques for the estimation of fruit quality attributes using Near-Infrared (NIR) Spectroscopy. By exploring advanced models, this work aims to overcome the limitations of traditional chemometrics, facilitating the development of more robust, global models. These models are designed to perform consistently across diverse conditions, including different seasons, locations, fruit varieties, growing conditions and spectrometers.
@@ -28,6 +29,12 @@ To get started with this project, follow these steps:
     jupyter notebook
     ```
     This will open a web browser to the URL of the Jupyter notebook web application, where you can access and run the project's notebooks.
+
+
+## Supplementary Material for Publications
+
+This repository contains specific supplementary material that accompanies the research presented in the following publications:
+- [Evaluation of 1D Convolutional Neural Network in Estimation of Mango Dry Matter Content](publications/Eval-1D-CNN-Mango-DM/README.md)
 
 
 ## Acknowledgments
