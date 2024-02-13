@@ -49,4 +49,4 @@ For further information, collaboration, or inquiries about the project, please r
 
 **Email**: jeremypaul.walsh@gmail.com
 
-**LinkedIn:** [Jeremy Walsh](https://www.linkedin.com/in/jeremy-walsh-b64ba8142/)
+**LinkedIn:** [Jeremy Walsh](https://www.linkedin.com/in/jeremyp-walsh/)

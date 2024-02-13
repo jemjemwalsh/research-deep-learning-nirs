@@ -2,7 +2,8 @@
 
 This repository accompanies the research presented in the publication:
 
-**Walsh J, Neupane A, Li M. Evaluation of 1D Convolutional Neural Network in Estimation of Mango Dry Matter Content. *Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy* 2024; DOI: [INSERT DOI]()**
+**Walsh J, Neupane A, Li M. Evaluation of 1D Convolutional Neural Network in Estimation of Mango Dry Matter Content. *Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy* 2024; DOI: [10.1016/j.saa.2024.124003](    
+https://doi.org/10.1016/j.saa.2024.124003)**
 
 The code within this repository was utilised to generate the results discussed in the aforementioned paper. All computational work was conducted using a laptop equipped with a 12th Gen Intel® Core™ i7-1265U 1.80 GHz processor, 32 GB of RAM, Windows 10 Enterprise operating system, and an Intel® Iris® Xe Graphics GPU with 16GB memory. The software environment comprised Python 3.10.4, and the [requirements.txt](requirements.txt) file specifies all necessary Python packages and libraries, along with their respective versions.
 
@@ -17,25 +18,30 @@ The additional season's worth of raw absorbance spectra, dry matter reference va
 
 ### Data
 
+The specific datasets needed to run this code are available on Mendeley Data at: [data.mendeley.com/datasets/mc9jshwb38](https://data.mendeley.com/datasets/mc9jshwb38)
+
+The data should be downloaded, extracted and placed in this directory.
+
 #### Directory Structure:
 ```
-data
-├── input
-│   ├── season_1_to_4
-│   │   ├── anderson&etal_2020_pretreatment.csv
-│   │   ├── mishra&passos_2021_pretreatment_adjusted.csv
-│   │   ├── mishra&passos_2021_pretreatment.csv
-│   │   └── nil_pretreatment.csv
-│   └── season_5
-│       ├── anderson&etal_2020_pretreatment.csv
-│       ├── mishra&passos_2021_pretreatment_adjusted.csv
-│       ├── mishra&passos_2021_pretreatment.csv
-│       └── nil_pretreatment.csv
-├── predictions
-│   └── mishra&passos_2021_best_cnn.csv
-└── results
-    ├── appendix_a_model_results.xlsx
-    └── raw_results.csv
+Eval-1D-CNN-Mango-DM
+└── data
+    ├── input
+    │   ├── season_1_to_4
+    │   │   ├── anderson&etal_2020_pretreatment.csv
+    │   │   ├── mishra&passos_2021_pretreatment_adjusted.csv
+    │   │   ├── mishra&passos_2021_pretreatment.csv
+    │   │   └── nil_pretreatment.csv
+    │   └── season_5
+    │       ├── anderson&etal_2020_pretreatment.csv
+    │       ├── mishra&passos_2021_pretreatment_adjusted.csv
+    │       ├── mishra&passos_2021_pretreatment.csv
+    │       └── nil_pretreatment.csv
+    ├── predictions
+    │   └── mishra&passos_2021_best_cnn.csv
+    └── results
+        ├── appendix_a_model_results.xlsx
+        └── raw_results.csv
 ```
 
 #### Input:
@@ -75,4 +81,4 @@ Should you require additional information or have any questions regarding this s
 
 **Email**: jeremypaul.walsh@gmail.com
 
-**LinkedIn:** [Jeremy Walsh](https://www.linkedin.com/in/jeremy-walsh-b64ba8142/)
+**LinkedIn:** [Jeremy Walsh](https://www.linkedin.com/in/jeremyp-walsh/)
