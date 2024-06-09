@@ -35,11 +35,12 @@ To get started with this project, follow these steps:
 
 This repository contains specific supplementary material that accompanies the research presented in the following publications:
 - [Evaluation of 1D Convolutional Neural Network in Estimation of Mango Dry Matter Content](publications/Eval-1D-CNN-Mango-DM/README.md)
+- [Thesis (Chapter 4)](publications/Thesis-Chapter-4/README.md)
 
 
 ## Acknowledgments
 
-Many thanks to the [Non-Invasive Sensor Group](https://www.cqu.edu.au/research/organisations/institute-for-future-farming-systems/non-invasive-sensor-technology) at CQUniversity's Institute for Future Farming Systems for the support and provision of their datasets. Collecting and compiling thousands of spectra and reference values is a huge undertaking over many years, and this reseach project would not have been possible without their combined effort.
+Many thanks to the [Non-Invasive Sensor Group](https://www.cqu.edu.au/research/organisations/institute-for-future-farming-systems/non-invasive-sensor-technology) at CQUniversity's Institute for Future Farming Systems for the support and provision of their datasets. Collecting and compiling thousands of spectra and reference values is a huge undertaking over many years, and this research project would not have been possible without their combined effort.
 
 Special thanks to Dário Passos for the inspiration from his open GitHub repository on deep learning for VIS-NIR spectra ([dario-passos/DeepLearning_for_VIS-NIR_Spectra](https://github.com/dario-passos/DeepLearning_for_VIS-NIR_Spectra)).
 
