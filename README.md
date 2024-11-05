@@ -4,7 +4,7 @@
 ## Project Overview
 A repository to accompany a Master of Research project conducted within the School of Engineering and Technology at CQUniversity. The research focuses on leveraging deep learning techniques for the estimation of fruit quality attributes using Near-Infrared (NIR) Spectroscopy. By exploring advanced models, this work aims to overcome the limitations of traditional chemometrics, facilitating the development of more robust, global models. These models are designed to perform consistently across diverse conditions, including different seasons, locations, fruit varieties, growing conditions and spectrometers.
 
-The research is encapsulated in the thesis **Deep Learning In Estimation of Fruit Attributes Using Near Infrared Spectroscopy** by Jeremy Walsh (to be finalised). The latest publications associated with this work can be found on the authors [ORCID Profile](https://orcid.org/0000-0002-4360-3536). 
+The research is encapsulated in the thesis **[Deep Learning In Estimation of Fruit Attributes Using Near Infrared Spectroscopy](https://acquire.cqu.edu.au/articles/thesis/Deep_Learning_in_Estimation_of_Fruit_Attributes_Using_Near_Infrared_Spectroscopy/27208401?file=49736973)** by Jeremy Walsh. The latest publications associated with this work can be found on the authors [ORCID Profile](https://orcid.org/0000-0002-4360-3536). 
 
 
 ## Usage
